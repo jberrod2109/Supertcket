@@ -1,4 +1,4 @@
-# Supertcket
+# Superticket
 Repositorio proyecto final Jose Bertos Rodriguez grado superior administración de sistemas informáticos en red 
 Resumen del Proyecto: Super Ticket
 Super Ticket es una plataforma web de gestión de tickets desarrollada con el objetivo de ofrecer una solución ligera, segura y gratuita para organizaciones que necesitan gestionar incidencias, consultas o solicitudes internas. A diferencia de otras plataformas comerciales o de código abierto, Super Ticket se ha diseñado desde cero para ser multiempresa, es decir, capaz de atender múltiples organizaciones o departamentos de forma aislada, dentro de una única instancia del sistema.
